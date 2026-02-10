@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-stream-of-consciousness-gender-dynamics",
+  "title": "The Weight of a New Sun",
+  "tagline": "A young woman's consciousness becomes the battleground for a nation's future and her own.",
+  "target_words": 70000,
+  "actual_words": 65567,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Private Cost of Public Freedom",
+    "Knowledge as Rebellion and Burden",
+    "The Architecture of Obedience",
+    "Reconciling National History with Personal Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Two Sentences",
+      "words": 2732
+    },
+    {
+      "ch": 2,
+      "title": "The Walk with Concrete",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "Under the Mattress Light",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "The Minister's Map",
+      "words": 2700
+    },
+    {
+      "ch": 5,
+      "title": "Aunty Ifeoma's Arsenal",
+      "words": 2650
+    },
+    {
+      "ch": 6,
+      "title": "Mother's Silent Compromise",
+      "words": 2600
+    },
+    {
+      "ch": 7,
+      "title": "Ibadan: The First Lecture",
+      "words": 2850
+    },
+    {
+      "ch": 8,
+      "title": "Letters from a Morris Minor",
+      "words": 2750
+    },
+    {
+      "ch": 9,
+      "title": "The Black Jacobins in Lagos",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "Parliament of One",
+      "words": 2650
+    },
+    {
+      "ch": 11,
+      "title": "The Protest in the Mind",
+      "words": 2800
+    },
+    {
+      "ch": 12,
+      "title": "Chinedu's Blueprints",
+      "words": 2550
+    },
+    {
+      "ch": 13,
+      "title": "The Archive of Women",
+      "words": 3000
+    },
+    {
+      "ch": 14,
+      "title": "A Bridge Named Progress",
+      "words": 2700
+    },
+    {
+      "ch": 15,
+      "title": "Fufu and Philosophy",
+      "words": 2600
+    },
+    {
+      "ch": 16,
+      "title": "The Rally Inside",
+      "words": 2850
+    },
+    {
+      "ch": 17,
+      "title": "Kaduna's Decree",
+      "words": 2750
+    },
+    {
+      "ch": 18,
+      "title": "Ogunmokun Street as Nation",
+      "words": 2650
+    },
+    {
+      "ch": 19,
+      "title": "The Choice of Weapons",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "History is a Leopard",
+      "words": 2800
+    },
+    {
+      "ch": 21,
+      "title": "The Unwritten Thesis",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "Breaking the Frame",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "Not an Ending, a Direction",
+      "words": 2850
+    },
+    {
+      "ch": 24,
+      "title": "The Ground Upon Which We Build",
+      "words": 2750
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a stream-of-consciousness monologue from the perspective of Ezinne's mother during one of her 'headaches,' revealing the history of compromises she made.",
+      "Draft the letter Chinedu the engineer writes to his own father about his 'modern' walk with Ezinne and his expectations of a wife.",
+      "Compose a chapter from Aunty Ifeoma's youth, showing a parallel struggle for autonomy during the colonial era.",
+      "Imagine a scene where Ezinme, now at university, leads a seminar discussion that inadvertently dissects her father's political rhetoric."
+    ],
+    "technical": [
+      "Build a web-based 'Consciousness Map' that visualizes the overlapping pressures on Ezinne (family, nation, history, self) as interactive, competing layers of text and sound.",
+      "Create a text generator that produces 'Letters from Authority' (father, university, government) in the formal, weighted style of the novel, allowing users to input their own decisive choices."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf",
+      "Chinua Achebe",
+      "Frantz Fanon",
+      "Buchi Emecheta"
+    ]
+  },
+  "cover_prompt": "A young African woman in mid-20th century attire stands transfixed, her hands pressed against the glass of a towering, ornate radio cabinet, from which luminous, geometric streams of historical data and fragmented memories erupt, symbolizing her consciousness under siege, set within the parlor of a colonial-era administrative building now repurposed for state broadcasting, where architectural blueprints of ideological control are superimposed over traditional textiles, in the atmospheric style of Lynette Yiadom-Boakye meets a cyberpunk-infused Njideka Akunyili Crosby, with elements of symbolic magical realism, book cover framing, centered composition with a dramatic low-angle view emphasizing both the monumental radio and the woman's determined posture, cinematic chiaroscuro lighting with a color palette of deep indigos, burnt oranges, and ethereal gold against muted earth tones, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
